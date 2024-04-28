@@ -1,0 +1,2 @@
+
+export { useDynamicLayout } from './useDynamicLayout'

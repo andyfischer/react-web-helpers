@@ -1,0 +1,22 @@
+{
+  "name": "@andyfischer/react-web-helpers",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyfischer/react-web-helpers.git"
+  },
+  "author": "andyfischer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyfischer/react-web-helpers/issues"
+  },
+  "homepage": "https://github.com/andyfischer/react-web-helpers#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
